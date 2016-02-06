@@ -1,0 +1,37 @@
+{
+  "name": "buceohuatulco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesuscmd/buceohuatulco.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesuscmd/buceohuatulco/issues"
+  },
+  "homepage": "https://github.com/jesuscmd/buceohuatulco#readme",
+  "dependencies": {
+    "gulp-if": "^2.0.0",
+    "gulp-uglify": "^1.5.1",
+    "wiredep": "^3.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.0",
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-html-replace": "^1.5.5",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.0.6",
+    "gulp-useref": "^3.0.5"
+  }
+}
+}

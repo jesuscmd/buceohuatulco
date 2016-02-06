@@ -1,0 +1,18 @@
+{
+  "name": "buceohuatulco",
+  "homepage": "https://github.com/jesuscmd/buceohuatulco",
+  "authors": [
+    "jesuscmd <jesuscmd@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
